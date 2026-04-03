@@ -12,7 +12,7 @@ import os
 import re
 
 # ============================================================
-# ★ Set the folder path containing your Excel files.
+# Set the folder path containing your Excel files.
 #   Leave as "./" if this script is in the same folder.
 # ============================================================
 DATA_FOLDER = r"./"
